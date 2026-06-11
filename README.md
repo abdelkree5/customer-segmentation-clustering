@@ -115,5 +115,5 @@ jupyter notebook
 
 <hr/>
 
-<h3 align="center">👨‍💻 Developed by Mostafa Sharqawy</h3>
+<h3 align="center">👨‍💻 Developed by abdelkreem abdelhaleem frahat</h3>
 <p align="center">AI Engineer | Machine Learning | Data Science</p>
